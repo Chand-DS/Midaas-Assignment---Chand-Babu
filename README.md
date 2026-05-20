@@ -91,6 +91,7 @@ Interactive API documentation available at:
 
 Project Structure
 
+```text
 src/main/java/com/example/MoonWalkRestro
 
 ├── config
@@ -103,6 +104,7 @@ src/main/java/com/example/MoonWalkRestro
 ├── service
 ├── strategy
 └── exception
+```
 
 
 **API Endpoints**
